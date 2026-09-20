@@ -7,6 +7,10 @@
     <p>Please fill in this form</p>
     <hr>
 
+    <label for="adhar"><b>Name</b></label>
+    <input type="text" placeholder="Enter adharcard number" name="adhar" id="adhar" required>
+
+
     <label for="email"><b>Name</b></label>
     <input type="text" placeholder="Enter name" name="name" id="name" required>
 
