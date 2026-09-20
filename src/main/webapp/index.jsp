@@ -7,10 +7,6 @@
     <p>Please fill in this form</p>
     <hr>
 
-    <label for="adhar"><b>Name</b></label>
-    <input type="text" placeholder="Enter adharcard number" name="adhar" id="adhar" required>
-
-
     <label for="email"><b>Name</b></label>
     <input type="text" placeholder="Enter name" name="name" id="name" required>
 
@@ -23,6 +19,10 @@
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
+
+    <label for="Adhar"><b>Adhar</b></label>
+    <input type="text" placeholder="Enter adharcard number" name="adhar" id="adhar" required>
+
     <hr>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
